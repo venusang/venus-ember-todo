@@ -13,6 +13,12 @@ module.exports = function(environment) {
       }
     },
 
+    //silences the errors in the console http://www.thetechcofounder.com/fixing-content-security/
+    contentSecurityPolicy: {
+      'style-src': "'self' 'unsafe-inline'",
+    },
+
+
     APP: {
       // Here you can pass flags/options to your application instance
       // when it is created
