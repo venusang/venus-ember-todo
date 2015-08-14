@@ -1,5 +1,6 @@
 # venus-ember-todo
 
+I created this app by following this tutorial: http://www.thetechcofounder.com/getting-started-with-ember-js-using-ember-cli/
 This README outlines the details of collaborating on this Ember application.
 A short introduction of this app could easily go here.
 
